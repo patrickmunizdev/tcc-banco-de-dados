@@ -1,0 +1,6 @@
+{
+    "name": "patrickmunizdev/tcc",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}
